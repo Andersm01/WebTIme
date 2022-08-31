@@ -1,0 +1,20 @@
+body{
+
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+    font-size: 30px;
+    background-color: whitesmoke;
+
+}
+li{
+    
+    list-style: decimal;
+
+}
+
+.greybox{
+
+    background-color: grey;
+
+}
